@@ -137,7 +137,7 @@ const Login = () => {
       <div className="hidden md:flex md:w-1/2 bg-red-700 items-center justify-center">
         <div className="text-white text-center p-8 max-w-md">
           <h2 className="text-4xl font-bold mb-4">Project FIRA</h2>
-          <p className="text-xl mb-8">Your safety is our priority</p>
+          <p className="text-xl mb-8">Your safety is our top priority</p>
         </div>
       </div>
     </div>
